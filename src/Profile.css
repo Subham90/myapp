@@ -1,0 +1,95 @@
+*{
+    background-color: #EDE4FF;
+  }
+
+.profile {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color:#D7BBF5;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  }
+  .profileimage
+  {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /*don't forget prefixes*/
+    background-position: center center;
+    object-fit: cover;
+  }
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-header h1 {
+    font-size: 26px;
+    margin-bottom: 10px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-header p {
+    font-size: 16px;
+    margin-bottom: 5px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-interests {
+    margin-bottom: 20px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-interests h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-interests ul {
+    list-style-type: none;
+    padding-left: 0;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-interests li {
+    font-size: 16px;
+    margin-bottom: 5px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-social {
+    margin-bottom: 20px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-social h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-social ul {
+    list-style-type: none;
+    background-color:#D7BBF5;
+    padding-left: 0;
+  }
+  
+  .profile-social li {
+    font-size: 16px;
+    margin-bottom: 5px;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-social a {
+    color: #333;
+    text-decoration: none;
+    background-color:#D7BBF5;
+  }
+  
+  .profile-social a:hover {
+    text-decoration: underline;
+  }
+  
